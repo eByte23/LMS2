@@ -1,0 +1,3 @@
+/Users/elijahbate/Documents/Dev/LMS2/src/EFDemo1.Common/obj/Debug/netstandard2.0/EFDemo1.Common.csproj.CoreCompileInputs.cache
+/Users/elijahbate/Documents/Dev/LMS2/src/EFDemo1.Common/obj/Debug/netstandard2.0/EFDemo1.Common.AssemblyInfoInputs.cache
+/Users/elijahbate/Documents/Dev/LMS2/src/EFDemo1.Common/obj/Debug/netstandard2.0/EFDemo1.Common.AssemblyInfo.cs

@@ -3,5 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <ProjectReference Include="../../../../Company/ITFirstAid/Development/Leelou/neviles/src/NEvilES.Extensions.DependecyInjection/NEvilES.Extensions.DependecyInjection.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="LiteDB" Version="4.1.4" />
+  </ItemGroup>
 </Project>
